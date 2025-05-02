@@ -7,17 +7,23 @@ logging.basicConfig(level=logging.INFO, format='[%(asctime)s]: %(message)s:')
 projectName = "summit"
 
 filesList = [
-    ".github/worksflows/gitkeep",
-    "src/__init__.py",     
-    "src/preprocess.py",        # tokenization + prepping data
-    "src/train.py",             # training model
-    "src/summarize.py",         # running the summarizer on new text
-    "src/utils.py",             # helpers
-    "data/sample_input.txt",    # sample datasets maybe ?
-    "models/",                  # models (models) (the models go here)
-    "extension/",               # for the chrome extension
-    "requirements.txt",         # python dependencies
-    "main.py",                  # main!
+    # ".github/worksflows/gitkeep",
+    # "src/__init__.py",     
+    # "src/preprocess.py",        # tokenization + prepping data
+    # "src/train.py",             # training model
+    # "src/summarize.py",         # running the summarizer on new text
+    # "src/utils.py",             # helpers
+    # "data/sample_input.txt",    # sample datasets maybe ?
+    # "models/",                  # models (models) (the models go here)
+    # "extension/",               # for the chrome extension
+    # "requirements.txt",         # python dependencies
+    # "main.py",                  # main!
+    "summarizer-chrome-extension/manifest.json",
+    "summarizer-chrome-extension/background.js",
+    "summarizer-chrome-extension/content.js",
+    "summarizer-chrome-extension/popup.html",
+    "summarizer-chrome-extension/popup.js",
+    "summarizer-chrome-extension/styles.css",
 ]
 
 for filePath in filesList:
