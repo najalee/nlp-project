@@ -1,4 +1,4 @@
 # nlp-project
 
-![logo](images/graphicdesignismypassion.png "logo!")
+![logo](summarizer-chrome-extension/images/graphicdesignismypassion.png "logo!")
 
