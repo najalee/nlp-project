@@ -1,24 +1,62 @@
-body {
-  width: 20rem;
-}
-
-ul {
-  list-style-type: none;
-  padding-inline-start: 0;
-  margin: 1rem 0;
-}
-
-li {
-  padding: 0.25rem;
-}
-li:nth-child(odd) {
-  background: #80808030;
-}
-li:nth-child(even) {
-  background: #ffffff;
-}
-
-h3,
-p {
+#title{
   margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  object-fit: cover;
+  height: auto;
+  display: block;
+  border-bottom: 5px solid black;
+}
+
+#summary-output {
+  color: white;
+  padding: 3%;
+  font-size: medium;
+  justify-content: center;
+  font-family: sans-serif;
+  position: absolute; /* Position it absolutely */
+  z-index: 2; /* Higher z-index to ensure it overlaps #loading */
+
+  /* width: 90%; */
+
+  /* overflow: scroll; */
+}
+
+body {
+  width: 15rem;
+  height: 20rem;
+  margin: 0;
+  padding: 0;
+  /* background-color: #ffdbc5; */
+  background: linear-gradient(to bottom, #ffdbc5 20%, #ba03fc);
+  overflow: scroll;
+}
+
+
+.mewhenicenteradiv{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 35%;
+}
+
+#loading {
+  width: 50px;
+  height: 50px;
+  /* border: 5px solid #91a5ff; /* Light gray border */
+  /* border-top: 5px solid #125581; /* Blue border for the spinning part*/
+  /* border-radius: 50%; /* Makes it a circle */
+  animation: spin 1s linear infinite; /* spin animation */
+}
+
+@keyframes spin {
+  /* 0% {
+    transform: rotate(0deg);
+  } */
+  100% {
+    transform: rotate(360deg);
+  }
 }
