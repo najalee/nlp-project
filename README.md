@@ -7,7 +7,7 @@ A Chrome extension that summarizes any highlighted text using a fine-tuned T5 mo
 ---
 
 ## 📹 Demo Video
-[[Watch the Demo](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)]
+[[Watch the Demo]((https://www.youtube.com/watch?v=S_Ph9YNmtqs))]
 
 ---
 
