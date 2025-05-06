@@ -19,9 +19,9 @@ A Chrome extension that summarizes any highlighted text using a fine-tuned T5 mo
 - data:
     - Was meant to hold data, but instead decided to get the dataset via HuggingFace
 - src:
-    - [![sum-it.ipynb](src/sum-it.ipynb)] is the notebook showing how the T5 model was trained
-    - [![sum-it-space](src/sum-it-space)] includes the files used to set up the [![HuggingFaceSpace](https://huggingface.co/spaces/najalee/sum-it)]
-    - [![preprocesses.py](src/preprocesses.py)] shows how the data was preprocessed, this is also included in the notebook
+    - [[sum-it.ipynb](src/sum-it.ipynb)] is the notebook showing how the T5 model was trained
+    - [[sum-it-space](src/sum-it-space)] includes the files used to set up the [[HuggingFaceSpace](https://huggingface.co/spaces/najalee/sum-it)]
+    - [[preprocesses.py](src/preprocesses.py)] shows how the data was preprocessed, this is also included in the notebook
 - summarizer-chrome-extension:
     - This folder is all the code used to build the extension.
 
