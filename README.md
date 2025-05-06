@@ -1,13 +1,13 @@
 ![logo](summarizer-chrome-extension/images/graphicdesignismypassion.png "logo!")
 
 
-A Chrome extension that summarizes any highlighted text using a fine-tuned T5 model, as a project for my NLP class. The project report is included in this repo as [![ProjectReport.pdf](ProjectReport.pdf)]
+A Chrome extension that summarizes any highlighted text using a fine-tuned T5 model, as a project for my NLP class. The project report is included in this repo as [[ProjectReport.pdf](ProjectReport.pdf)]
 
 
 ---
 
 ## 📹 Demo Video
-[![Watch the Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[[Watch the Demo](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)]
 
 ---
 
