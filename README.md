@@ -11,7 +11,7 @@ A Chrome extension that summarizes any highlighted text using a fine-tuned T5 mo
 
 ---
 
-# How This Repo Is Organized
+## How This Repo Is Organized
 
 - Root Folder:
     - These were made with my template to easily create organized folder heirarchy
@@ -25,7 +25,7 @@ A Chrome extension that summarizes any highlighted text using a fine-tuned T5 mo
 - summarizer-chrome-extension:
     - This folder is all the code used to build the extension.
 
---
+---
 
 ## 🚀 Features
 - Summarizes any highlighted text on a web page
@@ -64,7 +64,7 @@ A Chrome extension that summarizes any highlighted text using a fine-tuned T5 mo
 ---
 
 ## 👤 Contributions
-- 👨‍💻 Developed entirely by myself, this was a solo project.
+- 🤓 Developed entirely by myself, this was a solo project.
 
 ---
  
