@@ -5,21 +5,21 @@ A Chrome extension that summarizes any highlighted text using a fine-tuned T5 mo
 
 
 # Contents
-[Installation Guide](#installation-guide)
+[Installation Guide](#😼-installation-guide)
 
-[How This Repo Is Organized](#how-this-repo-is-organized)
+[How This Repo Is Organized](#🦧-how-this-repo-is-organized)
 
-[Features](#features)
+[Features](#🚀-features)
 
-[How It Works](#how-it-works)
+[How It Works](#🧠-how-it-works)
 
-[Tech Stack](#tech-stack)
+[Tech Stack](#📦-tech-stack)
 
-[Lessons Learned](#lessons-learned)
+[Lessons Learned](#💡-lessons-learned)
 
-[Future Improvements](#future-improvements)
+[Future Improvements](#✨-future-improvements)
 
-[Contributions](#contributions)
+[Contributions](#👤-contributions)
 
 ---
 
@@ -39,7 +39,7 @@ A Chrome extension that summarizes any highlighted text using a fine-tuned T5 mo
 
 ---
 
-## How This Repo Is Organized
+## 🦧 How This Repo Is Organized
 
 - Root Folder:
     - These were made with my template to easily create organized folder heirarchy
