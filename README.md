@@ -4,23 +4,6 @@
 A Chrome extension that summarizes any highlighted text using a fine-tuned T5 model, as a project for my NLP class. The project report is included in this repo as [[ProjectReport.pdf](ProjectReport.pdf)]
 
 
-# Contents
-[Installation Guide](#😼-installation-guide)
-
-[How This Repo Is Organized](#🦧-how-this-repo-is-organized)
-
-[Features](#🚀-features)
-
-[How It Works](#🧠-how-it-works)
-
-[Tech Stack](#📦-tech-stack)
-
-[Lessons Learned](#💡-lessons-learned)
-
-[Future Improvements](#✨-future-improvements)
-
-[Contributions](#👤-contributions)
-
 ---
 
 ## 📹 Demo Video
