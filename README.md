@@ -12,8 +12,10 @@ A Chrome extension that summarizes any highlighted text using a fine-tuned T5 mo
 ---
 
 ## 😼 Installation Guide
-(until this gets on the chrome store (maybe))
+Download directly from the chrome store [[here](https://chromewebstore.google.com/detail/chnkeiloanghpilkffndigbnblefgdae?utm_source=item-share-cb)]
 
+
+or you can do all this:
 1. Paste into search bar, accept downloads https://download-directory.github.io?url=https://github.com/najalee/nlp-project/tree/main/summarizer-chrome-extension then unzip the download
 2. In chrome's search bar, paste+enter chrome://extensions
 3. In the top right, enable "developer mode"
